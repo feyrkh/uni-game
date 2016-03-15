@@ -1,0 +1,29 @@
+﻿<Properties RefactoringSettings.EnableRefactorings="True" StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\DialogSystem.cs">
+    <Files>
+      <File FileName="Assets\Scripts\TimeController.cs" Line="8" Column="17" NotebookId="1" />
+      <File FileName="Assets\Scripts\SpritePivotAlignment.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Scripts\InteractWith.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Scripts\CharacterMovement.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Scripts\InteractorUserControl.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Scripts\Interactor.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Scripts\GameState.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Scripts\DialogSystem.cs" Line="173" Column="41" NotebookId="1" />
+      <File FileName="Assets\Scripts\Interactions\TalkTo.cs" Line="20" Column="30" NotebookId="1" />
+      <File FileName="Assets\Standard Assets\2D\Scripts\Camera2DFollow.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Scripts\ObjectLabel.cs" Line="27" Column="15" NotebookId="1" />
+    </Files>
+    <FloatingWindows>
+      <FloatingWindow WindowId="1" X="539" Y="1221" Width="1196" Height="382">
+        <Files>
+          <File FileName="Assets\JSON\ConversationTriggers\chitchat.json" Line="15" Column="25" />
+        </Files>
+      </FloatingWindow>
+    </FloatingWindows>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

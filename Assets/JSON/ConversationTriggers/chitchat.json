@@ -1,0 +1,18 @@
+{
+	"Trinity": [
+		{"trigger":["hearts<=-5"], "file":"trinity_hate_smalltalk"},
+		{"trigger":["hearts<=-2"], "file":"trinity_dislike_smalltalk"},
+		{"file": "trinity_neutral_smalltalk"},
+		{"trigger":["hearts>=2", "hearts<5"], "file":"trinity_like_smalltalk"},
+		{"trigger":["hearts>=5"], "file":"trinity_love_smalltalk"},
+		{"trigger":["Met Trinity=0"], "pri":-1, "file":"trinity_first_meeting", "energy":3}
+	],
+	"Valefor": [
+		{"trigger":["hearts<=-5"], "file":"valefor_hate_smalltalk"},
+		{"trigger":["hearts<=-2"], "file":"valefor_dislike_smalltalk"},
+		{"file": "valefor_neutral_smalltalk"},
+		{"trigger":["hearts>=2", "hearts<5"], "file":"valefor_like_smalltalk"},
+		{"trigger":["hearts>=5"], "file":"valefor_love_smalltalk"},
+		{"trigger":["Met Valefor=0"], "pri":-1, "file":"valefor_first_meeting", "energy":3}
+	]
+}
